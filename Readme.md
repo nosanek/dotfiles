@@ -11,7 +11,7 @@ My crappy dotfiles repo, which contains configs, fonts, and wallpapers that I us
 ## Fonts ✒️
 
 - [Rec Mono Nosanek](fonts/RecMonoNosanek/): A customized [Recusive](https://www.recursive.design) monospace font.
-- [RecMonoNosanek Nerd Font](fonts/RecMonoNosanekNerdFont/): A patched version of [Rec Mono Nosanek](fonts/RecMonoNosanek/) using [Nerd Font](https://github.com/ryanoasis/nerd-fonts).
+- [RecMonoNosanek Nerd Font](fonts/RecMonoNosanekNerdFont/): A [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) patched version of [Rec Mono Nosanek](fonts/RecMonoNosanek/).
 
 ## Wallpapers 🖼️
 
